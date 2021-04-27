@@ -1,0 +1,11 @@
+D:\DevEducation\Homeworks\HW_14_DoubleLinkedList\HW_14_DoubleLinkedList\obj\Debug\netcoreapp3.1\HW_14_DoubleLinkedList.csprojAssemblyReference.cache
+D:\DevEducation\Homeworks\HW_14_DoubleLinkedList\HW_14_DoubleLinkedList\obj\Debug\netcoreapp3.1\HW_14_DoubleLinkedList.AssemblyInfoInputs.cache
+D:\DevEducation\Homeworks\HW_14_DoubleLinkedList\HW_14_DoubleLinkedList\obj\Debug\netcoreapp3.1\HW_14_DoubleLinkedList.AssemblyInfo.cs
+D:\DevEducation\Homeworks\HW_14_DoubleLinkedList\HW_14_DoubleLinkedList\bin\Debug\netcoreapp3.1\HW_14_DoubleLinkedList.exe
+D:\DevEducation\Homeworks\HW_14_DoubleLinkedList\HW_14_DoubleLinkedList\bin\Debug\netcoreapp3.1\HW_14_DoubleLinkedList.deps.json
+D:\DevEducation\Homeworks\HW_14_DoubleLinkedList\HW_14_DoubleLinkedList\bin\Debug\netcoreapp3.1\HW_14_DoubleLinkedList.runtimeconfig.json
+D:\DevEducation\Homeworks\HW_14_DoubleLinkedList\HW_14_DoubleLinkedList\bin\Debug\netcoreapp3.1\HW_14_DoubleLinkedList.runtimeconfig.dev.json
+D:\DevEducation\Homeworks\HW_14_DoubleLinkedList\HW_14_DoubleLinkedList\bin\Debug\netcoreapp3.1\HW_14_DoubleLinkedList.dll
+D:\DevEducation\Homeworks\HW_14_DoubleLinkedList\HW_14_DoubleLinkedList\bin\Debug\netcoreapp3.1\HW_14_DoubleLinkedList.pdb
+D:\DevEducation\Homeworks\HW_14_DoubleLinkedList\HW_14_DoubleLinkedList\obj\Debug\netcoreapp3.1\HW_14_DoubleLinkedList.dll
+D:\DevEducation\Homeworks\HW_14_DoubleLinkedList\HW_14_DoubleLinkedList\obj\Debug\netcoreapp3.1\HW_14_DoubleLinkedList.pdb

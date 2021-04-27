@@ -1,0 +1,11 @@
+D:\DevEducation\Homeworks\HW_3\HW_3\bin\Debug\netcoreapp3.1\HW_3.exe
+D:\DevEducation\Homeworks\HW_3\HW_3\bin\Debug\netcoreapp3.1\HW_3.deps.json
+D:\DevEducation\Homeworks\HW_3\HW_3\bin\Debug\netcoreapp3.1\HW_3.runtimeconfig.json
+D:\DevEducation\Homeworks\HW_3\HW_3\bin\Debug\netcoreapp3.1\HW_3.runtimeconfig.dev.json
+D:\DevEducation\Homeworks\HW_3\HW_3\bin\Debug\netcoreapp3.1\HW_3.dll
+D:\DevEducation\Homeworks\HW_3\HW_3\bin\Debug\netcoreapp3.1\HW_3.pdb
+D:\DevEducation\Homeworks\HW_3\HW_3\obj\Debug\netcoreapp3.1\HW_3.csprojAssemblyReference.cache
+D:\DevEducation\Homeworks\HW_3\HW_3\obj\Debug\netcoreapp3.1\HW_3.AssemblyInfoInputs.cache
+D:\DevEducation\Homeworks\HW_3\HW_3\obj\Debug\netcoreapp3.1\HW_3.AssemblyInfo.cs
+D:\DevEducation\Homeworks\HW_3\HW_3\obj\Debug\netcoreapp3.1\HW_3.dll
+D:\DevEducation\Homeworks\HW_3\HW_3\obj\Debug\netcoreapp3.1\HW_3.pdb

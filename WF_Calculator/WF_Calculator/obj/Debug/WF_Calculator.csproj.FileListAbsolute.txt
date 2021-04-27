@@ -1,0 +1,9 @@
+D:\DevEducation\Homeworks\WF_Calculator\WF_Calculator\obj\Debug\WF_Calculator.csprojAssemblyReference.cache
+D:\DevEducation\Homeworks\WF_Calculator\WF_Calculator\obj\Debug\WF_Calculator.Calculator.resources
+D:\DevEducation\Homeworks\WF_Calculator\WF_Calculator\obj\Debug\WF_Calculator.Properties.Resources.resources
+D:\DevEducation\Homeworks\WF_Calculator\WF_Calculator\obj\Debug\WF_Calculator.csproj.GenerateResource.cache
+D:\DevEducation\Homeworks\WF_Calculator\WF_Calculator\bin\Debug\WF_Calculator.exe.config
+D:\DevEducation\Homeworks\WF_Calculator\WF_Calculator\bin\Debug\WF_Calculator.exe
+D:\DevEducation\Homeworks\WF_Calculator\WF_Calculator\bin\Debug\WF_Calculator.pdb
+D:\DevEducation\Homeworks\WF_Calculator\WF_Calculator\obj\Debug\WF_Calculator.exe
+D:\DevEducation\Homeworks\WF_Calculator\WF_Calculator\obj\Debug\WF_Calculator.pdb
